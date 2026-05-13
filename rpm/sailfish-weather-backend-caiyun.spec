@@ -7,7 +7,7 @@ URL:            https://github.com/0312birdzhang/sailfish-weather-backend-caiyun
 Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
 Packager:       0312birdzhang
-Requires:       sailfish-weather
+Requires:       sailfish-weather >= 1.3.5
 
 %description
 This package provides the Caiyun backend for the Sailfish Weather application.
